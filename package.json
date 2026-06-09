@@ -1,0 +1,24 @@
+{
+  "name": "files",
+  "version": "1.0.0",
+  "description": "一份框架无关的 core,React / Vue / 小程序三端都可以直接接它。 核心只负责状态、流式解析和传输端口;各端示例只演示怎么消费 core。",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7"
+  },
+  "devDependencies": {
+    "@types/react": "^19.2.17",
+    "@types/react-dom": "^19.2.3",
+    "typescript": "^6.0.3"
+  }
+}
